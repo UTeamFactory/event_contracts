@@ -1,4 +1,4 @@
-package com.example.eventcontracts.contracts.commands;
+package com.perustars.event.contracts.commands;
 
 import lombok.Value;
 import org.axonframework.modelling.command.TargetAggregateIdentifier;

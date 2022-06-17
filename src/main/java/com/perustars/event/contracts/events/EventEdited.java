@@ -1,4 +1,4 @@
-package com.example.eventcontracts.contracts.events;
+package com.perustars.event.contracts.events;
 
 import lombok.Value;
 
@@ -6,7 +6,7 @@ import java.time.Instant;
 import java.util.Calendar;
 
 @Value
-public class EventRegistered {
+public class EventEdited {
     private String eventId;
     private String artistId;
     private String type;

@@ -1,4 +1,4 @@
-package com.example.eventcontracts.contracts.events;
+package com.perustars.event.contracts.events;
 
 import lombok.Value;
 
